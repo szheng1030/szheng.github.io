@@ -20,7 +20,7 @@ resume: true
 resume-external: false
 resume-url: assets/szheng-resume.pdf
 
-url: https://szheng.github.io
+url: https://szheng1030.github.io
 
 permalink: /:title/
 
@@ -44,18 +44,9 @@ github: szheng1030
 email: szheng1030@gmail.com
 
 authors:
-  johndoe:
-    name: John Doe
-    bio: A Man who travels the world eating noodles
-    external-image: false
-    picture: assets/images/profile.jpg
-    twitter: johndoe
-  jamesfoster:
-    name: James Foster
-    bio: A Man who develops software with coffee
-    external-image: false
-    picture: assets/images/james.jpg
-    twitter: jamesfoster
+  sam:
+    name: Samuel Zheng
+    bio: Software Engineer
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
