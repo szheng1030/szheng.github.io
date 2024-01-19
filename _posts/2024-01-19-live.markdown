@@ -1,0 +1,78 @@
+---
+title: "And the site finally goes live"
+layout: post
+date: 2024-01-19 2:47
+headerImage: false
+tag:
+- admin
+category: blog
+author: sam
+description: Markdown summary with different options
+---
+
+### That took too long.
+
+It was due time for me to make some place to consolidate things I've been working on.
+I probably spent a bit too much time planning everything out too.
+One decision I made early on was to make a website that was CSS/animation heavy, as to avoid feeling too manufactured.
+Eventually, I stumbled across [Jekyll](https://jekyllrb.com/), a static-site generator built on Ruby.
+It supports a blog-like posting system with markdown files and can be easily deployed to GitHub.
+
+On Jekyll's site, they have recommended repositories for templates people have made.
+So all it took was finding a template I liked, customizing the content and CSS (still took over a day), and here we are!
+
+---
+### Setting it up
+
+Having never touched much HTML or CSS outside of scraping websites, this was an experience.
+That being said, it was more intuitive than I expected.
+
+From how I understand it, Jekyll websites are built with the Liquid template language (created and used by Shopify, TIL).
+Liquid allows the definition of variables, filters, objects, etc., making it very similar to other programming languages.
+It also defines layouts, which are guidelines or backbones of how pages are created.
+So if you need to create multiple pages that have similar content, you'd use one layout and tweak the finer stuff individually.
+Which, in our case, for creating a blog-like system, is perfect!
+
+It felt like working with an OOP language, so that was cool. As much as we want to stretch that definition :)
+
+<figure>
+  <img src="{{ site.url }}/assets/jekyll-questionmark.png" alt="An extreme oversimplification of how Jekyll and Liquid worked in my head"/>
+
+  <figcaption>An extreme oversimplification of how Jekyll and Liquid worked in my head</figcaption>
+</figure>
+
+---
+### Some fun along the way
+
+Deploying to GitHub was fairly simple; I did mess up the repository name though.
+I mistyped the repo name as *szheng.github.io* instead of *szheng1030.github.io*.
+As a result, while the domain name became the monstrosity that is *szheng1030.github.io/szheng.github.io*, subpages like about were still linking to *szheng1030.github.io/about*, effectively breaking them.
+Eventually found my problem but it sure was an amusing half-hour trip.
+Didn't help that the site is previewed on localhost when testing locally. Its "domain" and subpages were of *localhost:4000/about/*, so no wonder it never came up in testing.
+
+I originally had Brennan's quote about laws being threats on the front page like this:
+
+<figure>
+  <img src="{{ site.url }}/assets/lawsarethreats.jpg" alt="Old home page featuring BLeeM's infamous quote of Bud Cubby the anarcho-socialist halfling"/>
+  <figcaption>Old home page featuring BLeeM's infamous quote of Bud Cubby the anarcho-socialist halfling</figcaption>
+</figure>
+
+Friend said that it felt a little bit too threatening as the first thing someone sees, and yeah, I kinda have to agree.
+Hesitantly moved it to the About section where it now resides.
+For legal reasons, this is 100% just a bit and something fun to quote.
+
+---
+### What now?
+
+I'm not too sure where I want to take this site at the moment.
+For the foreseeable future, blog posts will most likely be updates on stuff I'm working on, anything I find amusing, rabbit holes, etc.
+Projects for now will just host retrospectives of recent past projects. Of course, adding new finished projects as time goes on.
+Hopefully, it won't get too messy.
+
+If you've made it this far, thanks. <br>
+Not sure how you've stumbled onto this site but I appreciate the time regardless.
+
+I've been listening to [Dwellings](https://www.youtube.com/watch?v=SyesX3ZRe90) again recently.
+Thought they were pretty well known for the longest time, but guess I just never bothered checking their numbers.
+
+Their music is awesome.
