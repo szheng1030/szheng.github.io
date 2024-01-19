@@ -7,7 +7,7 @@ tag:
 - admin
 category: blog
 author: sam
-description: Markdown summary with different options
+description: Getting this site set up
 ---
 
 ### That took too long.
