@@ -25,6 +25,12 @@
         </a>
     {% endif %}
 
+    {% if site.itchio %}
+    <a class="link" data-title="{{ site.itchio }}" href="https://{{ site.itchio }}" target="_blank"  rel="noopener" alt="anchor link for social media itchio" aria-label="anchor link for social media itchio">
+        <i class="fa-brands fa-itch-io"></i>
+    </a>
+    {% endif %}
+
     {% if site.github %}
         <a class="link" data-title="github.com/{{ site.github }}" href="https://github.com/{{ site.github }}" target="_blank"  rel="noopener" alt="anchor link for social media github" aria-label="anchor link for social media github">
             <i class="fa-brands fa-github"></i>
