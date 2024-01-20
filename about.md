@@ -10,7 +10,7 @@ So far, I've spent 2 years working as an FPGA software engineer, with one of tho
 Moving forward, I'm looking to explore more within the realm of software dev and what that might bring.
 Always open to exciting new opportunities, so don't hesitate to reach out :)</p>
 
-<p>Been experimenting with creative work on the side, as well as picking game dev back up after a hiatus of maybe 2-3 years at this point.
+<p>Been experimenting with creative work on the side, as well as picking game dev back up after a hiatus of maybe 4-5 years at this point.
 I build PCs too, but doesn't everyone nowadays? It's nice to see the hobby becoming so much more accessible.
 Maybe I can call myself a 5e dungeon master in-training.</p>
 
