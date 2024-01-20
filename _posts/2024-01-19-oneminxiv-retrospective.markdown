@@ -1,16 +1,14 @@
 ---
 title: "Retrospective: The Making of ONE MIN XIV"
 layout: post
-date: 2024-01-19 7:42
-tag: motion-graphics
-image: https://szheng1030.github.io/assets/oneminxiv_logo.png
+date: 2024-01-19 21:04
 headerImage: true
-projects: true
-hidden: false
-description: "A retrospective on the making of videos as oneminxiv"
-category: project
+image: https://szheng1030.github.io/assets/oneminxiv_logo.png
+tag: 
+- motion-graphics
+category: blog
 author: sam
-externalLink: false
+description: "A retrospective on the making of videos as oneminxiv"
 ---
 
 ### Digging up buried memories

@@ -1,0 +1,23 @@
+---
+title: "Swish Swoosh Sword Simulator"
+layout: post
+date: 2023-04-11 0:00
+tag:
+- FPGA
+image:
+headerImage: false
+projects: true
+description: "A motion-controlled game made on the Nexys 4 DDR FPGA"
+category: project
+author: sam
+externalLink: false
+---
+
+A motion-controlled game made on the Nexys 4 DDR FPGA.
+
+GitHub: <https://github.com/NicholasTran/G8_SwishSwooshSwordSimulator>
+
+### Demo
+
+<iframe width="800" height="450" src="https://www.youtube.com/embed/H3OmKn2vGKM?si=DxFCCAxoLdom0VwN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
