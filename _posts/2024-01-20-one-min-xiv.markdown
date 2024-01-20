@@ -1,7 +1,7 @@
 ---
 title: "Retrospective: The Making of ONE MIN XIV"
 layout: post
-date: 2024-01-19 0:00
+date: 2024-01-19 7:42
 tag: motion-graphics
 image: https://szheng1030.github.io/assets/oneminxiv_logo.png
 headerImage: true
