@@ -70,7 +70,7 @@ show-tags: true
 related: false
 
 # Display links for next and previous posts for the specified categories
-post-advance-links: [blog]
+post-advance-links:
 
 # show author block at the end of a post ?
 show-author: false
