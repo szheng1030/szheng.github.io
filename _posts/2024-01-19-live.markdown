@@ -14,7 +14,7 @@ description: Getting this site set up
 
 It was due time for me to make some place to consolidate things I've been working on.
 I probably spent a bit too much time planning everything out too.
-One decision I made early on was to make a website that was CSS/animation heavy, as to avoid feeling too manufactured.
+One decision I made early on was to make a website that was animation heavy, as to avoid feeling too manufactured.
 Eventually, I stumbled across [Jekyll](https://jekyllrb.com/), a static-site generator built on Ruby.
 It supports a blog-like posting system with markdown files and can be easily deployed to GitHub.
 
@@ -35,11 +35,11 @@ Which, in our case, for creating a blog-like system, is perfect!
 
 It felt like working with an OOP language, so that was cool. As much as we want to stretch that definition :)
 
-<figure>
+<p>
   <img src="{{ site.url }}/assets/jekyll-questionmark.png" alt="An extreme oversimplification of how Jekyll and Liquid worked in my head"/>
 
   <figcaption>An extreme oversimplification of how Jekyll and Liquid worked in my head</figcaption>
-</figure>
+</p>
 
 ---
 ### Some fun along the way
@@ -52,10 +52,10 @@ Didn't help that the site is previewed on localhost when testing locally. Its "d
 
 I originally had Brennan's quote about laws being threats on the front page like this:
 
-<figure>
+<p>
   <img src="{{ site.url }}/assets/lawsarethreats.jpg" alt="Old home page featuring BLeeM's infamous quote of Bud Cubby the anarcho-socialist halfling"/>
   <figcaption>Old home page featuring BLeeM's infamous quote of Bud Cubby the anarcho-socialist halfling</figcaption>
-</figure>
+</p>
 
 Friend said that it felt a little bit too threatening as the first thing someone sees, and yeah, I kinda have to agree.
 Hesitantly moved it to the About section where it now resides.
