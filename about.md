@@ -7,7 +7,6 @@ layout: page
 
 <p>I graduated from the University of Toronto in the spring of 2023 with a Bachelor's in Computer Engineering. 
 So far, I've spent 2 years working as an FPGA software engineer, with one of those years being in-between my 3rd and 4th year of school.
-Moving forward, I'm looking to explore more within the realm of software dev and what that might bring.
 Always open to exciting new opportunities, so don't hesitate to reach out :)</p>
 
 <p>Been experimenting with creative work on the side, as well as picking game dev back up after a hiatus of maybe 4-5 years at this point.
