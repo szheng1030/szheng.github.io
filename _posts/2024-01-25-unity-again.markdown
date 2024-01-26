@@ -20,7 +20,9 @@ Before that, quick context.<br>
 Following some "certain life events", let's just say I found myself with some more free time during my day, hence trying Unity out again.
 The game isn't anything unique, just an extra gameplay added onto run-of-the-mill Flappy Bird clones, just so I could familiarize myself with the environment.
 Images of obscure birds will appear in the background during regular flappy bird gameplay and you're tasked with guessing the name of the bird between 2 choices.
-That being said, if you want to learn the names of some obscure birds, you can play the game on [itch.io](https://lostdirectory.itch.io/flappy-trivia).
+This extra game mechanic was mostly inspired by this segment from [Game Changer](https://youtu.be/hjmiDzLJ9VQ?si=4wxTBQIRb3O6-kpZ&t=70).
+
+That being said, if you want to learn the names of some obscure birds, you can play the game on [itch.io](https://lostdirectory.itch.io/flappy-trivia).<br>
 And the entire project is also uploaded to [GitHub](https://github.com/szheng1030/flappy-trivia).
 <div>
     <p>
