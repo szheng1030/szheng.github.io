@@ -42,11 +42,11 @@ For example, the intro log motion graphics, character assets, a colour palette, 
 There was also an AE project template made after the first video to ensure all subsequent videos had the same consistency.
 
 <div class="side-by-side">
-    <div class="toleft">
+    <div style="vertical-align: middle" class="toleft">
         <img class="image" src="{{ site.url }}/assets/oneminxiv-assets.png" alt="Alt Text">
         <figcaption class="caption">Some of the assets created</figcaption>
     </div>
-    <div class="toright">
+    <div style="vertical-align: middle" class="toright">
         <img class="image" src="{{ site.url }}/assets/oneminxiv-logo.gif" alt="Alt Text">
         <figcaption class="caption">Logo's motion graphics</figcaption>
     </div>
